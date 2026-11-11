@@ -1,8 +1,11 @@
+
 # Outpost – Agentic AI Workspace
 
 **An AI-powered collaborative workspace where ideas become diagrams, documents, and actionable workflows.**
 
 Outpost combines an intelligent AI agent, an interactive infinite canvas, and a collaborative document editor into one unified workspace. Users can interact with the AI agent using natural language to generate diagrams, create technical documentation, modify existing content, and organize ideas — while collaborating with their team in real time.
+
+<img width="1878" height="843" alt="Screenshot (4464)" src="https://github.com/user-attachments/assets/a5010fd3-50e9-4b21-9dfd-9cf9e06bc1fd" /> 
 
 The AI agent works directly with the canvas and document editor, allowing it to understand existing content and perform contextual updates instead of simply generating text responses.
 
